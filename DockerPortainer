@@ -1,2 +1,2 @@
 apt update && apt install -y git && git clone https://github.com/Jaredy899/DockerPortainer.git && cd DockerPortainer && chmod +x DockerPortainer.sh && ./DockerPortainer.sh
-apt update && apt install curl -y && curl -sSL https://raw.githubusercontent.com/Jaredy899/DockerPortainer/main/DockerPortainer.sh | bash
+apt update && apt install curl -y && curl -sSL https://raw.githubusercontent.com/Jaredy899/Portainer/main/Portainer.sh | bash
